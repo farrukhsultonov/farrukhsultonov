@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **farruhsultanov1998@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oecrb6O9Z73p6UjyKtjlsdB4Sa3ETwQP/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U1gpqN3YiVhb2eKIgsyKK04oyEgSMpgO/view)
 
 - ⚡ Fun fact **I'm left-handed**
 
