@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-farrukhsultonov.vercel.app/](https://portfolio-farrukhsultonov.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-farrukhsultonov.vercel.app/)
 
 - 💬 Ask me about **Web Application**
 
