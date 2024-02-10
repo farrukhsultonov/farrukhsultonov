@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farrukhsultonov" alt="farrukhsultonov" /></a> </p> -->
 
-- 🔭 I’m currently working on [Team5 Restaurant](https://team5bistro.herokuapp.com/)
+- 🔭 I’m currently working on [Adlister JavaScript + Java Project](https://github.com/farrukhsultonov/adlister)
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **Java, JavaScript**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-farrukhsultonov.vercel.app/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **farruhsultanov1998@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U1gpqN3YiVhb2eKIgsyKK04oyEgSMpgO/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11W7FPJj1f8xpR3uOz4otTGO-cREvuuUT/view?usp=sharing)
 
 - ⚡ Fun fact **I'm left-handed**
 
