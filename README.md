@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java, JavaScript**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-farrukhsultonov.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-farrukhsultonovs-projects.vercel.app/)
 
 - 💬 Ask me about **Web Application**
 
